@@ -1,0 +1,12 @@
+torch
+torchvision
+
+matplotlib
+numpy
+
+tqdm
+transforms3d
+tensorboardX
+git+https://github.com/szagoruyko/pytorchviz
+
+jupyter
